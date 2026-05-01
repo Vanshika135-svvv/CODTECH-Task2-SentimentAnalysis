@@ -30,3 +30,7 @@ To build a machine learning pipeline capable of understanding and classifying hu
 * **Text Preprocessing:** Converting raw string data into numerical features using `TfidfVectorizer` to highlight word importance.
 * **Predictive Modeling:** Training a `LogisticRegression` algorithm to classify review sentiment.
 * **Evaluation & Visualization:** Generating accuracy metrics, classification reports, and a heatmap-styled Confusion Matrix to assess model performance.
+
+## Output
+## Output
+<img width="730" height="590" alt="Image" src="https://github.com/user-attachments/assets/f811233b-4cba-4cad-bb81-ac8b821e9ff7" />
